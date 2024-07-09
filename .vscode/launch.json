@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CircleColorChange",
+            "request": "launch",
+            "mainClass": "CircleColorChange",
+            "vmArgs": "--module-path ${workspaceFolder}/lib/javafx-sdk-17.0.11/lib --add-modules javafx.controls"
+        }
+    ]
+}
